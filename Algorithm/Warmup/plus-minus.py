@@ -1,7 +1,7 @@
 #!/bin/python
 
 import sys
-
+print r
 
 n = float(raw_input().strip())
 arr = map(float,raw_input().strip().split(' '))

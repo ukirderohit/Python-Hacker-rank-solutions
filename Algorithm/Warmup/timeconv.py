@@ -3,5 +3,5 @@
 import sys
 
 
-time = raw_input().strip("':'")
+time = raw_input().strip()
 print time
